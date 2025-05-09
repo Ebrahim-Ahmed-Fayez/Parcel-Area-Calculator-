@@ -1,0 +1,5 @@
+geographiclib >=2.0,<2.1
+pyproj >=3.7.1,<3.8.0
+shapely >=2.1.0,<2.2.0
+streamlit >=1.45.0,<1.46.0
+matplotlib >=3.10.3,<3.11.0
